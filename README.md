@@ -1,4 +1,4 @@
-# Quang Chó
+# Jewel Sliding-Style Block Puzzle (Unity)
 
 This repository contains the gameplay and UI scripts for a Unity block puzzle game in the style of **Jewel Sliding / Brick classic**:
 
