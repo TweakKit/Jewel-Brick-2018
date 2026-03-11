@@ -1,4 +1,4 @@
-# Game giải đố hay đi
+# Quang Chó
 
 This repository contains the gameplay and UI scripts for a Unity block puzzle game in the style of **Jewel Sliding / Brick classic**:
 
